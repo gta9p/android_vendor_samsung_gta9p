@@ -40,6 +40,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a23xq/proprietary/vendor/etc/qdcm_calib_data_sw43404_amoled_video_mode_dsi_boe_panel_with_DSC.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_sw43404_amoled_video_mode_dsi_boe_panel_with_DSC.xml \
     vendor/samsung/a23xq/proprietary/vendor/etc/qdcm_calib_data_td4330_v2_cmd_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4330_v2_cmd_mode_dsi_truly_panel.xml \
     vendor/samsung/a23xq/proprietary/vendor/etc/qdcm_calib_data_td4330_v2_video_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4330_v2_video_mode_dsi_truly_panel.xml \
+    vendor/samsung/a23xq/proprietary/vendor/etc/wifi/aoa_cldb_falcon.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_falcon.bin \
+    vendor/samsung/a23xq/proprietary/vendor/etc/wifi/aoa_cldb_swl14.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_swl14.bin \
     vendor/samsung/a23xq/proprietary/vendor/etc/sensors/config/ss_holi_ak991x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/ss_holi_ak991x_0.json \
     vendor/samsung/a23xq/proprietary/vendor/etc/sensors/config/ss_holi_ak991x_1.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/ss_holi_ak991x_1.json \
     vendor/samsung/a23xq/proprietary/vendor/etc/sensors/config/ss_holi_ak991x_6.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/ss_holi_ak991x_6.json \
