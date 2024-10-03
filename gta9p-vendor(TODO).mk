@@ -254,8 +254,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta9p/proprietary/vendor/lib/camera/components/com.qti.node.swpdpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.swpdpc.so \
     vendor/samsung/gta9p/proprietary/vendor/lib/camera/components/com.qti.node.swpreprocess.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.swpreprocess.so \
     vendor/samsung/gta9p/proprietary/vendor/lib/camera/components/com.qti.node.swregistration.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.swregistration.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/components/com.qti.node.eisv2.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.eisv2.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/camera/components/com.qti.node.eisv3.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.eisv3.so \
     vendor/samsung/gta9p/proprietary/vendor/lib/camera/components/com.qti.stats.aecwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.aecwrapper.so \
     vendor/samsung/gta9p/proprietary/vendor/lib/camera/components/com.qti.stats.afd.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.afd.so \
     vendor/samsung/gta9p/proprietary/vendor/lib/camera/components/com.qti.stats.afwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.afwrapper.so \
@@ -328,8 +326,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qti.node.swpdpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.swpdpc.so \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qti.node.swpreprocess.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.swpreprocess.so \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qti.node.swregistration.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.swregistration.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib64/camera/components/com.qti.node.eisv2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.eisv2.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib64/camera/components/com.qti.node.eisv3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.eisv3.so \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qti.stats.aecwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.stats.aecwrapper.so \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qti.stats.afd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.stats.afd.so \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qti.stats.afwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.stats.afwrapper.so \
@@ -344,6 +340,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qtistatic.stats.af.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qtistatic.stats.af.so \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qtistatic.stats.awb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qtistatic.stats.awb.so \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qtistatic.stats.pdlib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qtistatic.stats.pdlib.so \
+    
     # TODO
     vendor/samsung/a23xq/proprietary/vendor/lib/camera/components/com.samsung.node.capture_bokeh.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.samsung.node.capture_bokeh.so \
     vendor/samsung/a23xq/proprietary/vendor/lib/camera/components/com.samsung.node.realtimebokeh.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.samsung.node.realtimebokeh.so \
