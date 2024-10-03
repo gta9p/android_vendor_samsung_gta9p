@@ -340,7 +340,48 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qtistatic.stats.af.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qtistatic.stats.af.so \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qtistatic.stats.awb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qtistatic.stats.awb.so \
     vendor/samsung/gta9p/proprietary/vendor/lib64/camera/components/com.qtistatic.stats.pdlib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qtistatic.stats.pdlib.so \
-    
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.anchorsync.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.anchorsync.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.demux.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.demux.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.derivedoffline.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.derivedoffline.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.frameselect.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.frameselect.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.fusion.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.fusion.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.generic.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.generic.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.gs.cedros.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.cedros.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.gs.kamorta.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.kamorta.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.gs.kodiak.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.kodiak.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.gs.mannar.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.mannar.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.gs.sdm865.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.sdm865.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.gs.sm8350.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.sm8350.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.hdr.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.mcreprocrt.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.mcreprocrt.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.memcpy.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.memcpy.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.mfsr.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.mfsr.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.ml.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.ml.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.mux.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.mux.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.qcfa.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.qcfa.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.rawhdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.rawhdr.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.realtimeserializer.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.realtimeserializer.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.rt.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.rt.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.rtmcx.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.rtmcx.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.serializer.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.serializer.so \
+    vendor/samsung/gtap9/proprietary/vendor/lib/com.qti.feature2.statsregeneration.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.statsregeneration.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.stub.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/com.qti.feature2.swmf.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.swmf.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/libI420colorconvert.so:$(TARGET_COPY_OUT_VENDOR)/lib/libI420colorconvert.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/libaidenoiser.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaidenoiser.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/libaidenoiserv2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaidenoiserv2.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/libcomprcapture.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcomprcapture.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/libhdr_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhdr_stub.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/libhdr_tm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhdr_tm.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/libopestriping.so:$(TARGET_COPY_OUT_VENDOR)/lib/libopestriping.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/libqc2colorconvertfilter.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqc2colorconvertfilter.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/libqc2filter.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqc2filter.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/libsn100u_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsn100u_fw.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/sensors.grip.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.grip.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ssc.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/hw/audio.primary.holi.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.holi.so \
+    vendor/samsung/gta9p/proprietary/vendor/lib/hw/com.qti.chi.override.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/com.qti.chi.override.so \
+
     # TODO
     vendor/samsung/a23xq/proprietary/vendor/lib/camera/components/com.samsung.node.capture_bokeh.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.samsung.node.capture_bokeh.so \
     vendor/samsung/a23xq/proprietary/vendor/lib/camera/components/com.samsung.node.realtimebokeh.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.samsung.node.realtimebokeh.so \
@@ -350,62 +391,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a23xq/proprietary/vendor/lib/camera/components/com.ss.stats.af.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.ss.stats.af.so \
     vendor/samsung/a23xq/proprietary/vendor/lib/camera/components/com.ss.stats.awb.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.ss.stats.awb.so \
     vendor/samsung/a23xq/proprietary/vendor/lib/camera/components/com.ss.stats.pdlib.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.ss.stats.pdlib.so \
-    
-    # TODO
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.anchorsync.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.anchorsync.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.demux.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.demux.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.derivedoffline.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.derivedoffline.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.frameselect.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.frameselect.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.fusion.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.fusion.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.generic.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.generic.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.gs.cedros.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.cedros.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.gs.kamorta.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.kamorta.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.gs.kodiak.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.kodiak.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.gs.mannar.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.mannar.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.gs.sdm865.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.sdm865.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.gs.sm8350.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.gs.sm8350.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.hdr.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.mcreprocrt.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.mcreprocrt.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.memcpy.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.memcpy.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.mfsr.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.mfsr.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.ml.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.ml.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.mux.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.mux.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.qcfa.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.qcfa.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.rawhdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.rawhdr.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.realtimeserializer.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.realtimeserializer.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.rt.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.rt.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.rtmcx.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.rtmcx.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.serializer.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.serializer.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.statsregeneration.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.statsregeneration.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.stub.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/com.qti.feature2.swmf.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qti.feature2.swmf.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/hw/audio.primary.holi.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.holi.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/hw/camera.qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.qcom.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/hw/com.qti.chi.override.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/com.qti.chi.override.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libI420colorconvert.so:$(TARGET_COPY_OUT_VENDOR)/lib/libI420colorconvert.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libaidenoiser.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaidenoiser.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libaidenoiserv2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaidenoiserv2.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libbauthserver.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbauthserver.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libbauthtzcommon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbauthtzcommon.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libcolor-default.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcolor-default.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libcomprcapture.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcomprcapture.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libdualcam_refocus_image.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdualcam_refocus_image.so \
     vendor/samsung/a23xq/proprietary/vendor/lib/libegis_fp_normal_sensor_test.so:$(TARGET_COPY_OUT_VENDOR)/lib/libegis_fp_normal_sensor_test.so \
     vendor/samsung/a23xq/proprietary/vendor/lib/libfastcrc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfastcrc.so \
     vendor/samsung/a23xq/proprietary/vendor/lib/libgf_in_system_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgf_in_system_lib.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libhdr_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhdr_stub.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libhdr_tm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhdr_tm.so \
     vendor/samsung/a23xq/proprietary/vendor/lib/libimgproc_sw.unifunc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libimgproc_sw.unifunc.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libopestriping.so:$(TARGET_COPY_OUT_VENDOR)/lib/libopestriping.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libqc2colorconvertfilter.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqc2colorconvertfilter.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libqc2filter.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqc2filter.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libqfp_sensortest.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqfp_sensortest.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libsec2qc_conversion.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsec2qc_conversion.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libsn100u_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsn100u_fw.so \
     vendor/samsung/a23xq/proprietary/vendor/lib/libspeakercalibration.so:$(TARGET_COPY_OUT_VENDOR)/lib/libspeakercalibration.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/libsynaFpSensorTestNwd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsynaFpSensorTestNwd.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/sensors.grip.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.grip.so \
-    vendor/samsung/a23xq/proprietary/vendor/lib/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ssc.so \
+    vendor/samsung/a23xq/proprietary/vendor/lib/libsec2qc_conversion.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsec2qc_conversion.so \
+
+
+    # TODO
     vendor/samsung/a23xq/proprietary/vendor/lib64/com.qti.feature2.demux.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qti.feature2.demux.so \
     vendor/samsung/a23xq/proprietary/vendor/lib64/com.qti.feature2.derivedoffline.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qti.feature2.derivedoffline.so \
     vendor/samsung/a23xq/proprietary/vendor/lib64/com.qti.feature2.frameselect.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qti.feature2.frameselect.so \
