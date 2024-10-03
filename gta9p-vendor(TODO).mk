@@ -92,9 +92,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta9p/proprietary/vendor/firmware/focaltech_ft8203_fw_dsbj.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ft8203_fw_dsbj.bin \
     vendor/samsung/gta9p/proprietary/vendor/firmware/focaltech_ft8203_mp_boe.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ft8203_mp_boe.bin \
     vendor/samsung/gta9p/proprietary/vendor/firmware/focaltech_ft8203_mp_dsbj.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ft8203_mp_dsbj.bin \
-    vendor/samsung/gta9p/proprietary/vendor/firmware/focaltech_ft8203_fw_dsbj.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ft8203_fw_dsbj.bin \
-
-    # TODO
+    vendor/samsung/gta9p/proprietary/vendor/firmware/fs1958.fsm:$(TARGET_COPY_OUT_VENDOR)/firmware/fs1958.fsm \
     vendor/samsung/gta9p/proprietary/vendor/firmware/evass.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b00 \
     vendor/samsung/gta9p/proprietary/vendor/firmware/evass.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b01 \
     vendor/samsung/gta9p/proprietary/vendor/firmware/evass.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b02 \
@@ -116,6 +114,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta9p/proprietary/vendor/firmware/evass.b18:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b18 \
     vendor/samsung/gta9p/proprietary/vendor/firmware/evass.b19:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b19 \
     vendor/samsung/gta9p/proprietary/vendor/firmware/evass.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mbn \
+    
+    # TODO
     vendor/samsung/a23xq/proprietary/vendor/firmware/evass.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mdt \
     vendor/samsung/a23xq/proprietary/vendor/firmware/multical.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/multical.bin \
     vendor/samsung/a23xq/proprietary/vendor/firmware/nfc/st21nfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/nfc/st21nfc_fw.bin \
