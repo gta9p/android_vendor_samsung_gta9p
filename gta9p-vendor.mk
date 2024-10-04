@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta9p/proprietary/vendor/etc/qdcm_calib_data_sw43404_amoled_video_mode_dsi_boe_panel_with_DSC.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_sw43404_amoled_video_mode_dsi_boe_panel_with_DSC.xml \
     vendor/samsung/gta9p/proprietary/vendor/etc/qdcm_calib_data_td4330_v2_cmd_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4330_v2_cmd_mode_dsi_truly_panel.xml \
     vendor/samsung/gta9p/proprietary/vendor/etc/qdcm_calib_data_td4330_v2_video_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4330_v2_video_mode_dsi_truly_panel.xml \
-    vendor/samsung/gta9p/proprietary/vendor/etc/sensors/config/holi_icm4x6xx_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/holi_icm4x6xx_0 \
+    vendor/samsung/gta9p/proprietary/vendor/etc/sensors/config/holi_qrd_bmi3x0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/holi_qrd_bmi3x0.json \
     vendor/samsung/gta9p/proprietary/vendor/etc/sensors/config/holi_ak991x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/ss_holi_ak991x_0.json \
     vendor/samsung/gta9p/proprietary/vendor/etc/wifi/aoa_cldb_falcon.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_falcon.bin \
     vendor/samsung/gta9p/proprietary/vendor/etc/wifi/aoa_cldb_swl14.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_swl14.bin \
